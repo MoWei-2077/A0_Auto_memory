@@ -1,2 +1,2 @@
-# A0_Auto_memory
+# A0后台优化
 一个简单的智能的内存管理机制magisk模块
