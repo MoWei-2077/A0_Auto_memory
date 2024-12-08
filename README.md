@@ -1,0 +1,2 @@
+# A0_Auto_memory
+一个简单的智能的内存管理机制magisk模块
